@@ -31,11 +31,11 @@ http://thotnet.pw/inf.sh
 http://46.243.189.101/gang
 http://138.197.162.98/sh
 http://82.212.70.218/a_thk.sh
-http://love.thotiana.live/bins/mips.bo
+http://love.thotiana.live/bins/mips.bot
 http://love.thotiana.live/bins/x86.bot
 http://81.6.42.123/a_thk.sh
 http://89.46.223.199/procrcu
 http://www.tekmat.net/wp-content/uploads/2014/04/jpg.txt&wpaa=phpinfo()
-157.230.103.246/thinkphp
+http://157.230.103.246/thinkphp
 http://185.244.25.131/x86
 http://173.249.15.239/x
