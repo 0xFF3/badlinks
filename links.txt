@@ -39,7 +39,4 @@ http://www.tekmat.net/wp-content/uploads/2014/04/jpg.txt&wpaa=phpinfo()
 http://157.230.103.246/thinkphp
 http://185.244.25.131/x86
 http://173.249.15.239/x
-<<<<<<< HEAD
-
-=======
->>>>>>> b57d1b63886f6a5a779c1ea14c611703487a2dd3
+http://93.188.163.62/dsl2750b
