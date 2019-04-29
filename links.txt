@@ -58,3 +58,4 @@ http://www.belvoires.com/products/power.php?fi=828
 https://www.luckys-shop.ru/js/libraries.php?h=1602
 http://www.careinmicrodentistry.com/logs/string.php?y=2208
 http://110.249.212.46/testget?q=23333&port=80
+http://51.75.35.174/all/ntpdd.x86
