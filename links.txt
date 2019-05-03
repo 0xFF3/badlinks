@@ -60,3 +60,8 @@ http://www.careinmicrodentistry.com/logs/string.php?y=2208
 http://110.249.212.46/testget?q=23333&port=80
 http://51.75.35.174/all/ntpdd.x86
 http://www.sparkocar.si/wp-includes/pear.php?v=2831
+http://5.188.210.101/echo.php
+http://vladimir.skidkom.ru/timthumb.php?zc=1&w=845&h=460&q=90&src=http://vladimir.skidkom.ru/static/team/2016/1013/14763523066836.jpg
+http://1541.ru
+https://www.cysend.com
+http://www.ambiens.com.br/estatisticas/router.php?e=282
