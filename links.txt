@@ -149,3 +149,11 @@ http://93.188.163.62/snwrite
 http://93.188.163.62/dsl2750b
 http: //31.13.195.251/ECHOBOT.sh (source ip 37.59.163.228)
 http: //31.13.195.251/ECHOBOT.sh (source ip 91.134.120.5)
+http://ardp.hldns.ru/loligang.mips (source ip 223.150.104.180)
+http://ardp.hldns.ru/loligang.mips (source ip 118.163.47.25)
+http://ardp.hldns.ru/loligang.mips (source ip 111.179.216.208)
+http://ardp.hldns.ru/loligang.mips (source ip 125.12.26.6)
+http://ardp.hldns.ru/loligang.mips (source ip 211.23.39.77)
+http://185.244.25.131 (source ip 126.82.24.78)
+http://89.190.159.189/lenovo.sh
+http://194.147.32.131/sh (source ip 125.70.9.249)
