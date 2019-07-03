@@ -157,3 +157,4 @@ http://ardp.hldns.ru/loligang.mips (source ip 211.23.39.77)
 http://185.244.25.131 (source ip 126.82.24.78)
 http://89.190.159.189/lenovo.sh
 http://194.147.32.131/sh (source ip 125.70.9.249)
+http://133.32.201.14/phpmyadmin/a_thk.sh (source ip 120.27.248.226)
